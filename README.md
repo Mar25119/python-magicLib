@@ -1,3 +1,6 @@
+
+<img width="515" height="84" alt="image" src="https://github.com/user-attachments/assets/9d6007b6-36c7-443e-aeaa-5e21f9b7fee7" />
+
 # Проект: Определение типа файла с python-magic
 
 Учебный проект, демонстрирующий использование библиотеки `python-magic` для определения MIME-типа и описания файла **по его содержимому**, а не по расширению.
